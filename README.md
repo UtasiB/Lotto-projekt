@@ -1,2 +1,2 @@
 # Lotto-projekt
-kösz a meghivást 
+kösz a mehivást K.L.
