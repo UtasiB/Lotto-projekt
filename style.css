@@ -59,6 +59,7 @@ table td{
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
 #lottó h1{
     margin-top: -230px;
     font-size: 51px;
@@ -69,6 +70,7 @@ table td{
     text-align: center;
     padding: 5px;
 }
+
 #pozició{
     position:relative;
     top:61px;
@@ -77,8 +79,8 @@ table td{
     height: 100%;
     margin: auto;
     padding-top: 0;
-                
 }
+
 #pozició2{
     position:relative;
     top:37px;
@@ -87,6 +89,7 @@ table td{
     margin: auto;
     padding-top: 0;
 }
+
 #pozició3{
     position:relative;
     top:37px;
@@ -95,6 +98,7 @@ table td{
     margin: auto;
     padding-top: 0;
 }
+
 #pozició4{
     position:relative;
     top:37px;
@@ -103,6 +107,7 @@ table td{
     margin: auto;
     padding-top: 0;
 }
+
 #pozició5{
     position:relative;
     top:37px;
@@ -111,6 +116,7 @@ table td{
     margin: auto;
     padding-top: 0;
 }
+
 #pozició6{
     position:relative;
     top:37px;
@@ -119,6 +125,7 @@ table td{
     margin: auto;
     padding-top: 0;
 }
+
 #pozició7{
     position:relative;
     top:37px;
@@ -127,6 +134,7 @@ table td{
     margin: auto;
     padding-top: 0;
 }
+
 #pozició8{
     position:relative;
     top:37px;
@@ -135,6 +143,7 @@ table td{
     margin: auto;
     padding-top: 0;
 }
+
 #pozició9{
     position:relative;
     top:37px;
@@ -143,6 +152,7 @@ table td{
     margin: auto;
     padding-top: 0;
 }
+
 #pozició10{
     position:relative;
     top:37px;
@@ -152,3 +162,6 @@ table td{
     padding-top: 0;
 }
 
+.elsősor div{
+   margin-left: 20px;
+}
