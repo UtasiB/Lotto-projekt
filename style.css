@@ -7,12 +7,11 @@ body{
 
 .Továbbiopciók{
     float: left;
-    background-color: grey;
+    background-color: rgb(66, 66, 66);
     color: white;
 }
 
 .képek img{
-    width: 30000px;
     float: left;
     width: 14%;
     padding: 5px;
@@ -25,10 +24,18 @@ body{
 }
 
 .menü{
+    background-image: url(hatter.jpg);
     float: left;
     width: 30%;
 }
 
 table{
     border-bottom: solid, 3px;
+}
+
+.menü h1{
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
