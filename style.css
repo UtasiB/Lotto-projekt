@@ -12,8 +12,19 @@ body{
 }
 
 .képek img{
-    width: 400px;
+    width: 30000px;
     float: left;
     width: 14%;
     padding: 5px;
+}
+
+.tartalom{
+   float: right;
+   width: 70%;
+
+}
+
+.menü{
+    float: left;
+    width: 30%;
 }
