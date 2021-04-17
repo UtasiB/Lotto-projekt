@@ -19,13 +19,14 @@ body{
 
 .tartalom{
    float: right;
-   width: 70%;
-   margin-right: -5%;
+   width: 60%;
+   margin-right: -7%;
+   margin-top: 5%;
 }
 
 .menü{
     float: left;
-    width: 30%;
+    width: 35%;
 }
 
 table td{
@@ -33,6 +34,7 @@ table td{
     height: 45px;
     text-align: justify;
     padding-left: 15px;
+    width: 35%;
 }
 
 .menü h1{
@@ -44,6 +46,6 @@ table td{
 
 #lottó{
     background-image: url(hatter.jpg);
-    width: 99%;
+    width: 100%;
     color: white;
 }
