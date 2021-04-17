@@ -4,3 +4,9 @@ body{
     width: 70%;
     width: 1000px;
     }
+
+.További.opciók{
+    float: left;
+    background-color: grey;
+    color: white;
+}
