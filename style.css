@@ -116,4 +116,6 @@ table td{
     position:fixed;
     top:425px;
     right:532px;
+     width: 20px; 
+    height: 20px;
 }
