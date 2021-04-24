@@ -18,10 +18,14 @@ a:hover{
     color: wheat;
 }
 
+.képek p{
+    display: inline-block;
+}
+
 .képek img{
     width: 80px;
-    margin-left: 15%;
-
+    float: left;
+    padding-top: 20px;
 }
 
 .tartalom{
@@ -58,6 +62,12 @@ table td{
     color: white;
 }
 
+.top3{
+    float: left;
+    text-align: left;
+    font-size: 40px;
+}
+
 #kör{
     width: 200px;
     margin: auto;
@@ -72,13 +82,35 @@ table td{
     font-size: 51px;
     z-index:-1;
 }
-.top3{
-    font-size: 300%;
-    margin-right: 100%;
-}
-.képek p{
-    float:right;
-}
 #lottó img{
     z-index:-1;
+}
+
+#xydb{
+    margin: auto;
+    width: 60%;    
+    padding: 15px;
+    font-size: 25px;
+    margin-top: 1.5%;
+}
+
+#eslő{
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+#második{
+    z-index: 0;
+}
+
+#harmadik{
+    z-index: 0;
+}
+
+.pos1{
+    padding-top: 0;
+    margin: auto;
+    position: relative;
+    padding-right: -30px;
 }
