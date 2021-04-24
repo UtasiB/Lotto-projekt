@@ -1,6 +1,8 @@
 body{
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+    width: 1500px;
     }
 
 .Továbbiopciók{
@@ -21,18 +23,19 @@ a:hover{
 .képek img{
     float: left;
     width: 80px;
+    z-index: -1;
 }
 
 .tartalom{
    float: right;
-   width: 85%;
+   width: 60%;
    margin-right: -7%;
    margin-top: 5%;
 }
 
 .menü{
     float: left;
-    width: 18%;
+    width: 35%;
 }
 
 table td{
@@ -60,9 +63,11 @@ table td{
 #kör{
     width: 200px;
     margin: auto;
-    margin-left: 75px;
-    margin-top: 80px;
+    margin-left: 160px;
+    margin-top: 84px;
     margin-bottom: 100px;
+    z-index:-1;
+
 }
 
 #lottó h1{
@@ -78,8 +83,8 @@ table td{
 
 #pozició{
     position:relative;
-    top:37px;
-    right:-58px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -87,8 +92,8 @@ table td{
 
 #pozició2{
     position:relative;
-    top:37px;
-    right:-60px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -96,8 +101,8 @@ table td{
 
 #pozició3{
     position:relative;
-    top:37px;
-    right:-60px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -105,8 +110,8 @@ table td{
 
 #pozició4{
     position:relative;
-    top:37px;
-    right:-60px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -114,8 +119,8 @@ table td{
 
 #pozició5{
     position:relative;
-    top:37px;
-    right:-60px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -123,8 +128,8 @@ table td{
 
 #pozició6{
     position:relative;
-    top:37px;
-    right:-60px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -132,8 +137,8 @@ table td{
 
 #pozició7{
     position:relative;
-    top:37px;
-    right:-60px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -141,8 +146,8 @@ table td{
 
 #pozició8{
     position:relative;
-    top:37px;
-    right:-60px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -150,8 +155,8 @@ table td{
 
 #pozició9{
     position:relative;
-    top:37px;
-    right:-60px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -159,8 +164,8 @@ table td{
 
 #pozició10{
     position:relative;
-    top:37px;
-    right:-60px;
+    top:32px;
+    right:-55px;
     height: 100%;
     margin: auto;
     padding-top: 0;
