@@ -35,7 +35,7 @@ a:hover{
 
 .menü{
     float: left;
-    width: 35%;
+    width: 34.7%;
 }
 
 table td{
@@ -56,14 +56,14 @@ table td{
 #lottó{
     background-image: url(img/kör.png);
     background-image: url(img/hatter.jpg);
-    width: 100%;
+    width: 57%;
     color: white;
 }
 
 #kör{
     width: 200px;
     margin: auto;
-    margin-left: 160px;
+    margin-left: 50px;
     margin-top: 84px;
     margin-bottom: 100px;
     z-index:-1;
