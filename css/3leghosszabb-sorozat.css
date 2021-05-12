@@ -25,6 +25,15 @@ a:hover{
     width: 120px;
     z-index: -1;
 }
+ 
+#címsor{
+    font-size:35px;
+
+}
+
+#szövegméret{
+ font-size: 25px;
+}
 
 .tartalom{
    float: right;
@@ -35,7 +44,7 @@ a:hover{
 
 .menü{
     float: left;
-    width: 34.7%;
+    width: 19.8%;
 }
 
 table td{
@@ -54,9 +63,9 @@ table td{
 }
 
 #lottó{
-    background-image: url(img/kör.png);
-    background-image: url(img/hatter.jpg);
-    width: 57%;
+    background-image: url(../img/kör.png);
+    background-image: url(../img/hatter.jpg);
+    width: 100%;
     color: white;
 }
 
@@ -81,10 +90,21 @@ table td{
     padding: 5px;
 }
 
+#másodiksor{
+    z-index: 0;
+    max-width: 100%;
+    height: auto;
+}
+#harmadiksor{
+    z-index: 0;
+    max-width: 100%;
+    height: auto;
+}
+
 #pozició{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -92,8 +112,8 @@ table td{
 
 #pozició2{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -101,8 +121,8 @@ table td{
 
 #pozició3{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -110,8 +130,8 @@ table td{
 
 #pozició4{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -119,8 +139,8 @@ table td{
 
 #pozició5{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -128,8 +148,8 @@ table td{
 
 #pozició6{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -137,8 +157,8 @@ table td{
 
 #pozició7{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -146,8 +166,8 @@ table td{
 
 #pozició8{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -155,8 +175,8 @@ table td{
 
 #pozició9{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
@@ -164,10 +184,54 @@ table td{
 
 #pozició10{
     position:relative;
-    top:50px;
-    right:-75px;
+    top:49px;
+    right:-74px;
     height: 100%;
     margin: auto;
     padding-top: 0;
 }
 
+#pozició11{
+    position:relative;
+    top:49px;
+    right:-74px;
+    height: 100%;
+    margin: auto;
+    padding-top: 0;
+}
+
+#pozició12{
+    position:relative;
+    top:49px;
+    right:-74px;
+    height: 100%;
+    margin: auto;
+    padding-top: 0;
+}
+
+#pozició13{
+    position:relative;
+    top:49px;
+    right:-74px;
+    height: 100%;
+    margin: auto;
+    padding-top: 0;
+}
+
+#pozició14{
+    position:relative;
+    top:49px;
+    right:-74px;
+    height: 100%;
+    margin: auto;
+    padding-top: 0;
+}
+
+#pozició15{
+    position:relative;
+    top:49px;
+    right:-74px;
+    height: 100%;
+    margin: auto;
+    padding-top: 0;
+}
