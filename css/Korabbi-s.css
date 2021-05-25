@@ -6,6 +6,7 @@ body{
     }
 
 .Továbbiopciók{
+    width: 57%;
     float: left;
     background-color: rgb(66, 66, 66);
     color: white;
@@ -35,7 +36,7 @@ a:hover{
 
 .menü{
     float: left;
-    width: 34.7%;
+    width: 40%;
 }
 
 table td{
@@ -63,7 +64,7 @@ table td{
 #kör{
     width: 200px;
     margin: auto;
-    margin-left: 50px;
+    margin-left: 70px;
     margin-top: 84px;
     margin-bottom: 100px;
     z-index:-1;
@@ -74,6 +75,9 @@ table td{
     margin-top: -230px;
     font-size: 51px;
 }
+
+
+
 
 .képek p{
     float: left;
