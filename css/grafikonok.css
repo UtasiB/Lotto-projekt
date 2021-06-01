@@ -20,9 +20,15 @@ a:hover{
     color: wheat;
 }
 
-.képek img{
+.képek1{
     float: left;
-    width: 120px;
+    width: 450px;
+    z-index: -1;
+}
+
+.képek2{
+    float: left;
+    width: 450px;
     z-index: -1;
 }
 
