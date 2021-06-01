@@ -1,12 +1,11 @@
 body{
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
-    width: 70%;
-    width: 1500px;
+
     }
 
 .Továbbiopciók{
-    width: 57%;
+    width: 300px;
     float: left;
     background-color: rgb(66, 66, 66);
     color: white;
@@ -30,13 +29,12 @@ a:hover{
 .tartalom{
    float: right;
    width: 60%;
-   margin-right: -7%;
    margin-top: 5%;
 }
 
 .menü{
     float: left;
-    width: 40%;
+    /*width: 40%;*/
 }
 
 table td{
@@ -57,14 +55,14 @@ table td{
 #lottó{
     background-image: url(../img/kör.png);
     background-image: url(../img/hatter.jpg);
-    width: 57%;
+    width: 300px;
     color: white;
 }
 
 #kör{
     width: 200px;
     margin: auto;
-    margin-left: 70px;
+    margin-left: 50px;
     margin-top: 84px;
     margin-bottom: 100px;
     z-index:-1;
