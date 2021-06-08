@@ -1,13 +1,12 @@
-
-
 body{
+    width: 1000px;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
-    width: 70%;
-    width: 1500px;
+
     }
 
 .Továbbiopciók{
+    
     width: 300px;
     float: left;
     background-color: rgb(66, 66, 66);
@@ -25,20 +24,23 @@ a:hover{
 
 .képek img{
     float: left;
-    width: 120px;
-    z-index: -1;
+    width: 17%;
+   /* width: 100px;*/
+   /* z-index: -1;*/
 }
 
 .tartalom{
-   float: right;
+   float: left;
    width: 60%;
-   margin-right: -7%;
    margin-top: 5%;
+   margin-left: 10px;
+   margin-right: 10px;
 }
 
 .menü{
+    width: 30%;
     float: left;
-    width: 40%;
+    /*width: 40%;*/
 }
 
 table td{
@@ -57,6 +59,7 @@ table td{
 }
 
 #lottó{
+    
     background-image: url(../img/kör.png);
     background-image: url(../img/hatter.jpg);
     width: 300px;
@@ -80,153 +83,17 @@ table td{
 
 
 
+
 .képek p{
     float: left;
     text-align: center;
-    padding: 5px;
-}
-
-#másodiksor{
-    z-index: 0;
-    max-width: 100%;
-    height: auto;
-}
-#harmadiksor{
-    z-index: 0;
-    max-width: 100%;
-    height: auto;
+    
 }
 
 #pozició{
     position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició2{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició3{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició4{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició5{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició6{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició7{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició8{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició9{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició10{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició11{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició12{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició13{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició14{
-    position:relative;
-    top:49px;
-    right:-74px;
-    height: 100%;
-    margin: auto;
-    padding-top: 0;
-}
-
-#pozició15{
-    position:relative;
-    top:49px;
-    right:-74px;
+    top:40px;
+    right:-62px;
     height: 100%;
     margin: auto;
     padding-top: 0;

@@ -1,10 +1,10 @@
 
 body{
+    width: 1000px;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
-    width: 70%;
-    width: 1500px;
-    }
+
+}
 
 .Továbbiopciók{
     width: 300px;
@@ -24,20 +24,22 @@ a:hover{
 
 .képek img{
     float: left;
-    width: 120px;
-    z-index: -1;
+    width: 17%;
+
 }
 
 .tartalom{
-   float: right;
-   width: 60%;
-   margin-right: -7%;
-   margin-top: 5%;
-}
+    float: left;
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+ }
+
 
 .menü{
     float: left;
-    width: 40%;
+    width: 30%;
 }
 
 table td{
@@ -82,7 +84,7 @@ table td{
 .képek p{
     float: left;
     text-align: center;
-    padding: 5px;
+    /*padding: 5px;*/
 }
 
 #másodiksor{
@@ -96,10 +98,11 @@ table td{
     height: auto;
 }
 
+
 #pozició{
     position:relative;
-    top:49px;
-    right:-74px;
+    top:40px;
+    right:-62px;
     height: 100%;
     margin: auto;
     padding-top: 0;
